@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Mickey Mouse",
+      "email": "mickey.mouse@gmail.com",
+      "age": 97
+    },
+    {
+      "id": "3",
+      "name": "Pepe de Frog",
+      "email": "pepe.de.frog@gmail.com",
+      "age": 8
+    },
+    {
+      "name": "Mary Poppins",
+      "email": "mary.poppins@gmail.com",
+      "age": 56,
+      "id": "Azom-St"
+    },
+    {
+      "name": "Harry Potter",
+      "email": "harry.potter@gmail.com",
+      "age": 15,
+      "id": "TGNmjO4"
+    },
+    {
+      "name": "Pikachu",
+      "email": "pikachu@gmail.com",
+      "age": 2,
+      "id": "np6--Ph"
+    }
+  ]
+}
